@@ -1,0 +1,1 @@
+FROM ghcr.io/open-telemetry/demo:1.3.0-accountingservice
